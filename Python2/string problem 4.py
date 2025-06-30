@@ -1,0 +1,5 @@
+input=input("enter the string :")
+print(f"user entered string :{input}")
+str_list=input.split()
+no_space_string = ''.join(str_list)
+print(f"string without spaces :{no_space_string} ")
