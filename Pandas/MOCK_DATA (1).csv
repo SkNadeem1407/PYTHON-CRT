@@ -1,0 +1,101 @@
+patient_id,genetic_variant,chromosome,gene_name,mutation_type,allele_frequency,pathogenicity,clinical_significance,test_date,lab_technician
+1,rs5678,8,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede,deletion,0.246,likely benign,positive,2/4/2013,Alair Bembrigg
+2,rs5678,20,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede,deletion,0.3583,uncertain significance,negative,10/14/2020,Verene Mongeot
+3,rs1234,16,cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,substitution,0.1356,likely benign,unknown,5/26/2022,Carolina Natt
+4,rs91011,13,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis,substitution,0.0528,benign,unknown,10/18/2015,Dougy Ely
+5,rs1234,19,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,insertion,0.2978,likely benign,negative,6/4/2012,Gordon De Bernardis
+6,rs5678,4,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,deletion,0.2835,likely benign,positive,2/20/2015,Garth Lavelle
+7,rs5678,10,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,substitution,0.2649,likely pathogenic,unknown,7/10/2018,Donetta Kitchener
+8,rs91011,1,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,deletion,0.1981,pathogenic,unknown,10/3/2022,Aimee Sibery
+9,rs1234,12,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,deletion,0.0219,likely benign,negative,9/12/2012,Husein Romeril
+10,rs5678,1,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,substitution,0.3678,pathogenic,negative,4/16/2014,Somerset Fortnum
+11,rs91011,21,tellus in sagittis dui vel nisl duis ac nibh fusce,substitution,0.3151,benign,unknown,10/15/2018,Junina Leefe
+12,rs1234,9,eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in,insertion,0.1014,likely pathogenic,negative,2/5/2016,Octavia Spensley
+13,rs91011,6,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis,deletion,0.1025,likely pathogenic,positive,9/22/2016,Seymour Pressnell
+14,rs5678,11,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,insertion,0.3318,likely pathogenic,negative,5/28/2014,Jane Ellgood
+15,rs91011,18,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien,substitution,0.0448,likely benign,negative,11/23/2010,Stuart Mityushin
+16,rs1234,10,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,substitution,0.2793,pathogenic,unknown,10/9/2015,Corrinne Marriage
+17,rs91011,2,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus,substitution,0.4497,likely benign,negative,1/12/2010,Davida De Castri
+18,rs5678,2,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,insertion,0.1778,likely pathogenic,negative,9/10/2017,Jarib Fessier
+19,rs91011,3,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt,insertion,0.3053,benign,negative,1/7/2016,Clare Hammell
+20,rs91011,9,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis,deletion,0.1512,benign,negative,5/7/2016,Cookie Bestar
+21,rs1234,2,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis,deletion,0.4227,benign,positive,10/17/2012,Morse Lilliman
+22,rs5678,15,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean,insertion,0.3069,benign,unknown,7/13/2015,Bale Pickersail
+23,rs91011,3,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper,substitution,0.0044,uncertain significance,unknown,9/2/2016,Roselia Saxon
+24,rs1234,17,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,substitution,0.0427,uncertain significance,unknown,10/7/2019,Elden Traske
+25,rs91011,13,libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse,deletion,0.2611,pathogenic,positive,9/16/2018,Dudley Tomaszynski
+26,rs1234,21,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum,deletion,0.0437,uncertain significance,positive,3/15/2018,Zacharie Jedryka
+27,rs91011,1,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci,substitution,0.2428,pathogenic,negative,4/3/2017,Had Yankeev
+28,rs5678,19,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi,insertion,0.1426,pathogenic,positive,9/22/2016,Delainey Schuler
+29,rs1234,17,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,deletion,0.0929,likely pathogenic,positive,11/22/2020,Innis Siggery
+30,rs5678,10,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,insertion,0.4576,likely pathogenic,unknown,11/17/2012,Hedy Chessill
+31,rs5678,17,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,insertion,0.2436,pathogenic,negative,4/2/2019,Kassey Wedlake
+32,rs91011,3,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,deletion,0.1785,uncertain significance,negative,1/5/2019,Louie Lightfoot
+33,rs1234,17,massa volutpat convallis morbi odio odio elementum eu interdum eu,substitution,0.1919,likely pathogenic,unknown,10/30/2015,Heath Purvess
+34,rs5678,10,cum sociis natoque penatibus et magnis dis parturient montes nascetur,insertion,0.2402,likely pathogenic,positive,10/11/2015,Charin Jain
+35,rs91011,2,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,substitution,0.1794,likely pathogenic,positive,12/21/2013,Braden Spurgeon
+36,rs5678,11,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,deletion,0.2046,pathogenic,positive,6/5/2022,Shea Alfonsetto
+37,rs5678,17,vitae nisl aenean lectus pellentesque eget nunc donec quis orci,insertion,0.2853,likely benign,negative,1/27/2014,Sylas McRannell
+38,rs5678,18,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh,deletion,0.3059,likely benign,unknown,4/25/2017,Briano Sutterby
+39,rs5678,17,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit,insertion,0.0404,likely pathogenic,unknown,5/12/2015,Baron Sullens
+40,rs91011,21,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras,deletion,0.4875,pathogenic,unknown,1/6/2016,Devonne Geldart
+41,rs1234,3,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,deletion,0.3972,likely pathogenic,unknown,2/24/2010,Velma Klainman
+42,rs1234,12,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque,deletion,0.3548,pathogenic,unknown,4/18/2013,Claudianus Trayford
+43,rs5678,8,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,deletion,0.2108,benign,positive,4/25/2011,Stoddard Gerraty
+44,rs91011,6,libero nullam sit amet turpis elementum ligula vehicula consequat morbi a,insertion,0.3873,uncertain significance,negative,9/14/2010,Herb Brundale
+45,rs91011,13,quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,substitution,0.0162,benign,positive,3/15/2010,Lemmy Wanden
+46,rs5678,9,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,deletion,0.464,benign,negative,4/29/2022,Ewell Brand
+47,rs1234,12,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,insertion,0.1676,likely pathogenic,negative,12/14/2015,Chrysler Kedge
+48,rs5678,7,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus,insertion,0.4807,uncertain significance,negative,7/5/2018,Brinna Laurant
+49,rs1234,15,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus,deletion,0.34,benign,positive,4/7/2011,Immanuel Lomasna
+50,rs1234,18,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam,substitution,0.1591,pathogenic,unknown,4/1/2020,Chiarra Ochterlonie
+51,rs91011,20,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,substitution,0.1979,uncertain significance,negative,8/16/2015,Stevena Hogbourne
+52,rs91011,22,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut,deletion,0.0397,likely pathogenic,positive,7/13/2015,Dal Goter
+53,rs5678,5,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,deletion,0.4221,uncertain significance,unknown,8/31/2018,Antoine Grise
+54,rs5678,2,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce,insertion,0.2171,pathogenic,negative,5/22/2013,Had Reyna
+55,rs1234,16,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus,substitution,0.044,likely pathogenic,positive,6/26/2020,Tucker Unger
+56,rs91011,13,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,insertion,0.4601,likely benign,positive,7/29/2010,Maris Husthwaite
+57,rs1234,15,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,insertion,0.4798,likely pathogenic,unknown,11/17/2022,Aggie Werndley
+58,rs5678,14,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,deletion,0.3954,likely benign,negative,1/2/2021,Chuck Velte
+59,rs5678,11,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum,deletion,0.3785,likely pathogenic,unknown,12/17/2019,Annalise Hamlington
+60,rs1234,10,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,deletion,0.044,uncertain significance,negative,7/6/2017,Shaun Duffield
+61,rs5678,9,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,insertion,0.2488,likely benign,negative,6/30/2013,Anallise Blaxall
+62,rs5678,1,diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien,insertion,0.3673,uncertain significance,positive,11/22/2018,Boycie Jaynes
+63,rs5678,5,accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,insertion,0.1919,likely benign,unknown,9/24/2015,Eddi Sharply
+64,rs5678,16,a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut,deletion,0.2679,pathogenic,unknown,6/16/2018,Aeriell Bencher
+65,rs91011,1,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,insertion,0.4538,benign,positive,10/15/2020,Guss Pietrzyk
+66,rs91011,13,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat,insertion,0.0595,likely benign,positive,2/23/2016,Jacki Wray
+67,rs1234,13,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius,insertion,0.2025,likely pathogenic,unknown,1/19/2010,Shermie Barrow
+68,rs1234,19,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,substitution,0.4131,pathogenic,unknown,5/25/2022,Davide Piddlesden
+69,rs91011,17,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue,insertion,0.3416,likely pathogenic,negative,4/6/2022,Jere Shillaker
+70,rs5678,2,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac,insertion,0.0492,pathogenic,unknown,9/24/2016,Derril Negri
+71,rs5678,18,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,insertion,0.3064,uncertain significance,positive,4/27/2014,Tierney Langthorne
+72,rs1234,3,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,substitution,0.4835,uncertain significance,negative,2/9/2010,Roxanne Peverell
+73,rs91011,2,dui vel sem sed sagittis nam congue risus semper porta volutpat,substitution,0.2344,likely benign,negative,5/4/2013,Zorah Capewell
+74,rs5678,8,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,substitution,0.4408,benign,negative,7/12/2010,Gar Ubach
+75,rs91011,10,ut volutpat sapien arcu sed augue aliquam erat volutpat in congue,substitution,0.2261,likely benign,unknown,11/26/2016,Talya O'Keeffe
+76,rs1234,7,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget,deletion,0.1328,uncertain significance,positive,10/6/2010,Ermengarde Nowill
+77,rs1234,11,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget,substitution,0.3722,likely pathogenic,positive,1/20/2013,Nikolos Sindell
+78,rs91011,17,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum,deletion,0.0492,uncertain significance,positive,7/27/2020,Inez Ritchie
+79,rs5678,14,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,substitution,0.1659,benign,positive,10/28/2021,Veronica Rapley
+80,rs5678,1,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,substitution,0.219,pathogenic,unknown,8/11/2012,Leila Soigoux
+81,rs1234,17,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,deletion,0.2535,pathogenic,negative,11/14/2013,Russ Kinworthy
+82,rs91011,1,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,insertion,0.1495,uncertain significance,negative,8/4/2020,Aubree Lewknor
+83,rs1234,16,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor,substitution,0.3186,likely benign,unknown,2/13/2022,Elle Saphin
+84,rs91011,14,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,substitution,0.4689,pathogenic,unknown,2/6/2022,Alberta Kleinhaut
+85,rs5678,20,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio,insertion,0.4269,likely pathogenic,positive,11/3/2015,Tamarra Grinishin
+86,rs91011,15,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,insertion,0.3084,pathogenic,unknown,10/27/2022,Haydon Dooley
+87,rs1234,22,in est risus auctor sed tristique in tempus sit amet sem fusce consequat,substitution,0.445,likely pathogenic,unknown,7/31/2020,Fifine McCerery
+88,rs91011,11,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,insertion,0.0709,benign,positive,7/2/2014,Conway Gersam
+89,rs91011,7,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,insertion,0.0953,uncertain significance,negative,8/24/2016,Jessey Gatrill
+90,rs5678,14,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante,substitution,0.4559,uncertain significance,positive,6/23/2018,Irv Nunnerley
+91,rs1234,19,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,deletion,0.0607,benign,positive,2/22/2013,Dael Beet
+92,rs5678,14,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,substitution,0.1522,likely pathogenic,negative,3/31/2015,Robinet Girdwood
+93,rs5678,19,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,substitution,0.0425,likely pathogenic,negative,7/11/2011,Chiquia Fausset
+94,rs5678,19,orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,insertion,0.1863,likely pathogenic,unknown,7/27/2016,Ermanno Jovis
+95,rs5678,7,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,deletion,0.3895,likely benign,positive,4/23/2016,Rois Edworthie
+96,rs5678,6,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,substitution,0.3757,uncertain significance,positive,1/4/2016,Tim Rankling
+97,rs5678,10,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,insertion,0.4982,likely benign,positive,9/18/2017,Farrand Willshire
+98,rs5678,6,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse,deletion,0.1248,likely pathogenic,unknown,11/2/2019,Ralina Ginie
+99,rs91011,16,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,insertion,0.2189,likely pathogenic,negative,1/6/2013,Sven Forgie
+100,rs91011,4,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,substitution,0.3635,benign,unknown,9/19/2013,Wendie Mathys
